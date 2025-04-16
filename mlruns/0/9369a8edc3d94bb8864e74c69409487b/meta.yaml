@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9369a8edc3d94bb8864e74c69409487b/artifacts
+end_time: 1744745315918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9369a8edc3d94bb8864e74c69409487b
+run_name: indecisive-shrew-680
+run_uuid: 9369a8edc3d94bb8864e74c69409487b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744745315906
+status: 3
+tags: []
+user_id: codespace

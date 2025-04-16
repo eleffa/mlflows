@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlflows/mlruns/622524431095111326/4b8395fdd76949729a8c190a66997b14/artifacts
+end_time: 1744746107236
+entry_point_name: ''
+experiment_id: '622524431095111326'
+lifecycle_stage: active
+run_id: 4b8395fdd76949729a8c190a66997b14
+run_name: big-rook-367
+run_uuid: 4b8395fdd76949729a8c190a66997b14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744746107207
+status: 3
+tags: []
+user_id: codespace
